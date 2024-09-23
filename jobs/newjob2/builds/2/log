@@ -1,0 +1,9 @@
+Started by user [8mha:////4Cg7WPjWPKX5oeJAyu4KvuC4iAaPX3/fbWaOJu4PFl/PAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZu/dLi1CL9xJTczDwA+rnvwMAAAAA=[0mDarshan A V
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/newjob2
+[newjob2] $ /bin/sh -xe /tmp/jenkins7013219036320987737.sh
++ sleep 20
++ echo  hi this is for testing env
+ hi this is for testing env
+Triggering a new build of [8mha:////4JkGFMfmFWMFQL+hOXFLRVHvDx7kxuwCsHWRe/Zr0zzuAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP281HIgZagPACe8q6zCAAAA[0mnewjob1
+Finished: SUCCESS

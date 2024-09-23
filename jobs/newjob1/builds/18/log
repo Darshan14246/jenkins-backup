@@ -1,0 +1,9 @@
+Started by user [8mha:////4Cg7WPjWPKX5oeJAyu4KvuC4iAaPX3/fbWaOJu4PFl/PAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZu/dLi1CL9xJTczDwA+rnvwMAAAAA=[0mDarshan A V
+Running as SYSTEM
+Building on the built-in node in workspace /var/lib/jenkins/workspace/newjob1
+[newjob1] $ /bin/sh -xe /tmp/jenkins1506280121783030391.sh
++ sleep 10
++ echo hi project building
+hi project building
+Triggering a new build of [8mha:////4EFGSU533yYb0JTT2M4xQAvXomRGFarvr5Hj6usq2wHNAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZe/az8JP281HIgZaQPAOTvhofCAAAA[0mnewjob2
+Finished: SUCCESS
